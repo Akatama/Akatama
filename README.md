@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋
+
+#### I am an SDET by day, by night I study DevOps and Linux
+[My personal website](https://www.akatama.dev/)
+
+- I contribute to [Internet-in-a-Box](https://github.com/iiab)
 
 <!--
 **Akatama/Akatama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
