@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am an SDET by day, by night I study DevOps and Linux
+#### Support Engineer by day, DevOps and Linux by night
 [My personal website](https://www.akatama.dev/)
 
 - I contribute to [Internet-in-a-Box](https://github.com/iiab)
